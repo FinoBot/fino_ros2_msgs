@@ -1,0 +1,2 @@
+bool detected
+geometry_msgs/Point position
